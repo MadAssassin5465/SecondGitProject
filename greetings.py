@@ -2,4 +2,4 @@ print("Welcome message")
 print("Welcome my friend")
 
 #show image 
-# Ask User what she wants to drink
+# Ask User what she wants to drink and eat 
